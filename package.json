@@ -93,6 +93,7 @@
     "rss": "^1.2.2",
     "sanitize-filename": "^1.6.2",
     "seedrandom": "^3.0.0",
+    "semver": "^7.3.4",
     "serve-favicon": "^2.3.0",
     "smtlib": "^1.0.0",
     "sockaddr": "^1.0.0",
